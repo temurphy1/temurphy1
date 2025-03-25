@@ -1,7 +1,10 @@
-## Hi there 👋
-<!--
-hello
--->
+## Hello!
+
+A new Github user learning how to use Github. Moderate experience in Python, MATLAB from my courses as an engineering student. 
+
+
+
+
 <!--
 **temurphy1/temurphy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
